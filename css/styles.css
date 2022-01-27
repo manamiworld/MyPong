@@ -1,0 +1,8 @@
+/* canvasの領域を決める */
+canvas {
+    background: #222;
+    /* 上下 */
+    display: block;
+    /* 左右の幅 */
+    margin: 0 auto;
+}
